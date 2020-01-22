@@ -1,0 +1,3 @@
+2020-01-22 17:30:29 info: Listening on port 3000
+2020-01-22 17:31:31 info: [0mGET /v0/get-info?q=what%20is%20node%20js [32m201 [0m1654.404 ms - 12966[0m
+2020-01-22 17:31:32 info: [0mGET /favicon.ico [33m404 [0m1.445 ms - 150[0m

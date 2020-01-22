@@ -1,0 +1,39 @@
+2020-01-19 22:00:30 info: Listening on port 3000
+2020-01-19 22:00:44 info: Listening on port 3000
+2020-01-19 22:00:51 info: Listening on port 3000
+2020-01-19 22:00:57 info: [0mGET /v0/get-info?q=divek%20john&page=1 [32m201 [0m919.732 ms - 2131[0m
+2020-01-19 22:01:04 info: [0mGET /v0/get-info?q=divek%20john&page=0 [32m201 [0m603.846 ms - 13557[0m
+2020-01-19 22:01:23 info: Listening on port 3000
+2020-01-19 22:02:09 info: Listening on port 3000
+2020-01-19 22:02:17 info: [0mGET /v0/get-info?q=divek%20john [32m201 [0m732.835 ms - 13557[0m
+2020-01-19 22:03:21 info: Listening on port 3000
+2020-01-19 22:03:37 info: Listening on port 3000
+2020-01-19 22:03:43 info: [0mGET /v0/get-info?q=divek%20john [32m201 [0m719.477 ms - 13557[0m
+2020-01-19 22:03:58 info: [0mGET /v0/get-info?q=divek%20john?page=1 [32m201 [0m1059.562 ms - 7797[0m
+2020-01-19 22:04:11 info: Listening on port 3000
+2020-01-19 22:04:15 info: [0mGET /v0/get-info?q=divek%20john?page=1 [32m201 [0m805.979 ms - 7797[0m
+2020-01-19 22:04:20 info: [0mGET /v0/get-info?q=divek%20john [32m201 [0m593.552 ms - 13557[0m
+2020-01-19 22:04:38 info: [0mGET /v0/get-info?q=divek%20john&count=1 [32m201 [0m562.737 ms - 13557[0m
+2020-01-19 22:04:45 info: [0mGET /v0/get-info?q=divek%20johns&count=1 [32m201 [0m635.349 ms - 5064[0m
+2020-01-19 22:04:52 info: [0mGET /v0/get-info?q=divek%20john&count=1 [32m201 [0m489.389 ms - 13557[0m
+2020-01-19 22:05:01 info: [0mGET /v0/get-info?q=divek.rf.gd&count=1 [32m201 [0m661.392 ms - 11782[0m
+2020-01-19 22:05:08 info: [0mGET /v0/get-info?q=divek.rf.gd&count=20 [32m201 [0m510.638 ms - 11782[0m
+2020-01-19 22:05:16 info: [0mGET /v0/get-info?q=divek.rf.gd&count=30 [32m201 [0m634.560 ms - 11782[0m
+2020-01-19 22:05:42 info: Listening on port 3000
+2020-01-19 22:05:49 info: Listening on port 3000
+2020-01-19 22:06:06 info: Listening on port 3000
+2020-01-19 22:06:12 info: [0mGET /v0/get-info?q=divek.rf.gd&count=30 [32m201 [0m839.946 ms - 11401[0m
+2020-01-19 22:06:19 info: [0mGET /v0/get-info?q=divek.rf.gd&count=100 [32m201 [0m834.585 ms - 11782[0m
+2020-01-19 22:06:36 info: Listening on port 3000
+2020-01-19 22:06:39 info: [0mGET /v0/get-info?q=divek.rf.gd&count=100 [32m201 [0m828.242 ms - 11790[0m
+2020-01-19 22:07:53 info: Listening on port 3000
+2020-01-19 22:07:58 info: [0mGET /v0/get-info?q=divek.rf.gd&count=100 [32m201 [0m760.184 ms - 11782[0m
+2020-01-19 22:08:01 info: [0mGET /v0/get-info?q=divek.rf.gd&count=100 [32m201 [0m542.111 ms - 11782[0m
+2020-01-19 22:08:12 info: [0mGET /v0/get-info?q=divek.rf.gd&page=100 [32m201 [0m576.651 ms - 2[0m
+2020-01-19 22:08:26 info: Listening on port 3000
+2020-01-19 22:08:31 info: [0mGET /v0/get-info?q=divek.rf.gd&page=1 [31m500 [0m35.782 ms - 2[0m
+2020-01-19 22:08:55 info: Listening on port 3000
+2020-01-19 22:09:00 info: [0mGET /v0/get-info?q=divek.rf.gd&page=1 [32m201 [0m742.129 ms - 14707[0m
+2020-01-19 22:09:11 info: [0mGET /v0/get-info?q=divek.rf.gd [32m201 [0m625.043 ms - 11782[0m
+2020-01-19 22:09:37 info: Listening on port 3000
+2020-01-19 22:10:07 info: [0mGET /v0/get-info?q=what%20is%20node%20js [32m201 [0m1280.966 ms - 18574[0m

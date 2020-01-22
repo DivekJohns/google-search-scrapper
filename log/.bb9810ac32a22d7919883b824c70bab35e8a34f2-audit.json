@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "log/.bb9810ac32a22d7919883b824c70bab35e8a34f2-audit.json",
+    "files": [
+        {
+            "date": 1579439587259,
+            "name": "log/Good Scrapy-2020-01-19-18.log",
+            "hash": "e6fb87df80d3294e552fb8a9aacb56d2"
+        },
+        {
+            "date": 1579444900303,
+            "name": "log/Good Scrapy-2020-01-19-20.log",
+            "hash": "f93c74edbc34892bca15615169cbc479"
+        },
+        {
+            "date": 1579448290084,
+            "name": "log/Good Scrapy-2020-01-19-21.log",
+            "hash": "7985ad10aa303641b323dee03c7cd12c"
+        },
+        {
+            "date": 1579451430188,
+            "name": "log/Good Scrapy-2020-01-19-22.log",
+            "hash": "37767defd343a26dd26c27b3ecb9907e"
+        },
+        {
+            "date": 1579694429486,
+            "name": "log/Good Scrapy-2020-01-22-17.log",
+            "hash": "af8bbb8b8aaf1b847f00aad7b622cc4e"
+        }
+    ]
+}
