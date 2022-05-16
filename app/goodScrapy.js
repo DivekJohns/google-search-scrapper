@@ -44,7 +44,7 @@ require('./routes')(app);
 
 //defualt route
 app.get('/ping', (req, res) => {
-	res.status(200).end('Rocket fired 😎 you can contact satelite now 🛰️🛰️ 🛰️  !');
+	res.status(200).end('Rocket fired 😎 you can contact satellite now 🛰️🛰️ 🛰️  !');
 });
 const port = PORT || 80;
 app.listen(port, () => logger.info(`Listening on port ${port}`));
